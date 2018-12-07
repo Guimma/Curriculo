@@ -1,0 +1,36 @@
+@media screen and (max-width: 768px){
+	.progressBarContainer{
+		margin:0 auto;
+	}
+}
+
+.progressBarContainer {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 200px;
+	height: 20px;
+	height: 0.5em;
+	background: #757575;
+	background: rgba(117,117,117,.2);
+	overflow: hidden;
+	border-radius: 5px;
+}
+
+.progressBarValue {
+	height: 1.66em;
+	float: left;
+	background: black;
+	background: rgba(158,158,158,.75);
+}
+
+.value-40{ 
+	width: 40%;
+}
+
+.value-80{ 
+	width: 80%;
+}
+
+.value-90{ 
+	width: 90%;
+}

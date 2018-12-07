@@ -1,0 +1,19 @@
+.container{
+	margin: 0 auto;
+	text-align: center;
+	margin-left: 769px;
+	margin-right: 769px;
+}
+
+.content{
+	background-color:white;
+}
+
+.navbar{
+	color: white;	
+	padding-bottom: 3px;
+}
+
+footer{
+	margin-top: -1%;
+}
